@@ -1,0 +1,1 @@
+querySelector/querySelectopAll - используется сейчас вместо getElementBy.... Есть forEach, получает NodeList (вместо HTML collection). 
